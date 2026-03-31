@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">Hello Word!!! <br>Me chamo Victor Hugo sou estudante do IFMS-NA  sou formado no curos Tec. Informática atualmente estou cursando o curso TADS (Tecnólogo em Análise Desenvolvimento de Sistemas)</p>
+<p align="left">Hello Word!!! <br>Me chamo Victor Hugo sou estudante do IFRO-VILHENA  sou formado no curos Tec. Informática atualmente estou cursando o curso TADS (Tecnólogo em Análise Desenvolvimento de Sistemas)</p>
 
 ###
 
-<h2 align="left">Linguagens que conheço</h2>
+<h2 align="left">Conhecimentos adquiridos na jornada</h2>
 
 ###
 
